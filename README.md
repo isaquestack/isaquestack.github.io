@@ -9,8 +9,8 @@ Sou um desenvolvedor focado em criar soluções práticas e escaláveis. Como um
 
 ### 🚀 Tecnologias e Ferramentas:
 <!-- Aqui você pode listar o que já conhece ou está estudando -->
-- **Linguagens:** (Ex: JavaScript, Python, Java)
-- **Ferramentas:** Git, Docker, VS Code.
+- **Linguagens:** (Ex: HTML, CSS, JavaScript,)
+- **Ferramentas:** Git,VS Code.
 
 ### 📫 Como me encontrar:
 - **LinkedIn:** https://www.linkedin.com/in/isaque-rocha-ribeiro/
