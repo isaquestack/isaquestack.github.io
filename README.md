@@ -1,6 +1,7 @@
 # Olá, eu sou o Isaque! 👋
 
-Sou um desenvolvedor focado em criar soluções práticas e escaláveis. Como um entusiasta de tecnologia com perfil generalista, busco entender o ecossistema de desenvolvimento de ponta a ponta.
+Desenvolvedor focado em transformar problemas complexos em soluções escaláveis. Atualmente, explorando o ecossistema Full Stack para entender como cada peça da engrenagem — do design à infraestrutura — impacta na experiência do usuário final.
+
 
 ### 🛠️ No que estou trabalhando:
 - 💻 Estudando novas linguagens e arquiteturas de software.
